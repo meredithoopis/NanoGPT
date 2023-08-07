@@ -7,3 +7,5 @@ Mr.Karpathy's videos get me into the world of deep learning and this project is 
 
 Inspiration: https://arxiv.org/pdf/1706.03762.pdf 
 
+FOR TIME-SAVING PURPOSES, IN THE COLAB FILE, REFER TO THE LAST CELL TO RUN THE MODEL
+
